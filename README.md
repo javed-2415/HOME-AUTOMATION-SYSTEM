@@ -50,9 +50,8 @@ This project demonstrates a simple home automation prototype that allows users t
 
 ## ⚙️ Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
 
-*(Use the circuit image generated earlier)*
+
 
 ---
 

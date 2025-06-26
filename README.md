@@ -1,4 +1,4 @@
-# 🏠 HOME AUTOMATION USING IoT
+# 🏠 HOME AUTOMATION SYSTEM
 
 ## 🚀 Project Title:
 **Home Automation to Control Light and Fan Using IoT Platforms (Blynk)**

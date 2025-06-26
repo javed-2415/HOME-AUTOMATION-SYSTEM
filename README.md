@@ -49,7 +49,7 @@ This project demonstrates a simple home automation prototype that allows users t
 ---
 
 ## ⚙️ Circuit Diagram
-
+##![Image](https://github.com/user-attachments/assets/fbc38e03-0365-4f86-a86f-e7eb756dca0f)
 
 
 
